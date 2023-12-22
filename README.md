@@ -18,7 +18,7 @@ To run Blaze locally, follow these steps:
 
 # Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/blaze-wallet.git
+git clone https://github.com/mickymult/blaze-wallet.git
 ```
 
 # Navigate to the project directory:
